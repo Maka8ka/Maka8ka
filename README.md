@@ -1,5 +1,7 @@
 
 ### ✨Makka Pakka lives in a little cave at the edge of the garden and likes nothing more than collecting and washing little stones,Welcome to [Maka8ka's Garden][myblog]
+
+* ![Profile views](https://gpvc.arturio.dev/maka8ka)  
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Maka8ka&show_icons=true&hide_border=true&hide=prs&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maka8ka&layout=compact&hide_border=true&theme=buefy&show_icons=true"> 
