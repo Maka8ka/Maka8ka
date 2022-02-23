@@ -5,7 +5,7 @@
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Maka8ka&show_icons=true&hide_border=true&hide=prs&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maka8ka&layout=compact&hide_border=true&theme=buefy&show_icons=true"> 
-  MAILTO:[admin@tengu.cc][mailto:admin@tengu.cc]
+  MAILTO:[admin@tengu.cc][mail]
 </p>
 
 <!-- **Maka8ka/Maka8ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 -->
 [myblog]:https://maka8ka.cc/
 
+[mail]:mailto:admin@tengu.cc
