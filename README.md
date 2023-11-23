@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[myblog]:https://maka8ka.cc/
+[myblog]:https://maka8ka.top/
 
 [mail]:mailto:admin@tengu.cc
